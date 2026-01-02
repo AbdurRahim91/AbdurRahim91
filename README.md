@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Stats  
 
-![Abdur Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurRahim91&show_icons=true&theme=tokyonight&hide_border=true)  
+![Abdur Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurRahim91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRahim91&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
@@ -51,10 +51,9 @@
 ---
 
 ### 📫 How to Reach Me  
-- ✉️ **Email:** yourname@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-- 🐦 **Twitter (X):** [@yourhandle](https://twitter.com/yourhandle)
+- ✉️ **Email:** descorahim1971@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/abdur-rahim-ru](https://linkedin.com/in/abdur-rahim-ru)  
+- 🌐 **Portfolio:** [rahimbd.com](https://rahimbd.com)  
 
 ---
 
