@@ -25,15 +25,15 @@
   <br>PHP
 </td>
 <td align="center" width="100">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
   <br>Laravel
 </td>
 <td align="center" width="100">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
   <br>WordPress
 </td>
 <td align="center" width="100">
-  <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="48" height="48" alt="WooCommerce" />
+  <img src="https://cdn-icons-png.flaticon.com/512/825/825519.png" width="48" height="48" alt="WooCommerce" />
   <br>WooCommerce
 </td>
 <td align="center" width="100">
@@ -41,7 +41,7 @@
   <br>Shopify
 </td>
 <td align="center" width="100">
-  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="48" height="48" alt="WP Plugin" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3659/3659693.png" width="48" height="48" alt="WP Plugin" />
   <br>WP Plugin
 </td>
 </tr>
@@ -114,13 +114,14 @@
   <br>Python
 </td>
 <td align="center" width="100">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="48" height="48" alt="AI Agent Development" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="AI Agent Development" />
   <br>AI Agent Development
 </td>
 </tr>
 
 </table>
 </div>
+
 
 
 
