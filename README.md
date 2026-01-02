@@ -188,10 +188,12 @@ Hi there! I'm **Abdur Rahim**, a passionate **Full Stack Developer** and **AI Ag
 
 ---
 
-### ⚡ Developer’s Vision  
-> I believe great software isn’t just written — it’s thoughtfully engineered with intent and creativity.  
-> My mission is to keep learning, keep building, and keep transforming ideas into powerful, intelligent digital experiences.  
+### 🌍 My Vision  
+
+> To build a world where technology feels simple, intelligent, and accessible to everyone.  
+> I aim to craft digital solutions that not only solve problems but also inspire creativity, efficiency, and growth.  
+>
+> Every line of code I write is a step toward smarter systems — from scalable web platforms and mobile apps to AI-powered agents that make life easier.  
 >
 > 💡 “Code with logic, build with purpose, and automate with intelligence.”  
 > — *Abdur Rahim*
-
