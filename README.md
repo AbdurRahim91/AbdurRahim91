@@ -32,15 +32,26 @@
 
 ### 📊 GitHub Stats  
 
-![Abdur Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurRahim91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRahim91&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdurRahim91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abdur Rahim's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdurRahim91&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🏆 GitHub Achievements  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdurRahim91&theme=tokyonight&hide_border=true)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdurRahim91&theme=tokyonight&margin-w=10&no-frame=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbdurRahim91&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdurRahim91&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 
 ---
 
