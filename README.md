@@ -19,12 +19,6 @@ Hi there! I'm **Abdur Rahim**, a passionate **Full Stack Developer** and **AI Ag
 - 🎨 Design **responsive, SEO-optimized frontends** for better digital experiences  
 
 ---
-<p align="center">
-  <b>💡 “Code with logic, build with purpose, and automate with intelligence.”</b><br>
-  <i>— Abdur Rahim</i>
-</p>
-
----
 
 ### 🧰 Tech Stack  
 
@@ -194,9 +188,10 @@ Hi there! I'm **Abdur Rahim**, a passionate **Full Stack Developer** and **AI Ag
 
 ---
 
-### ⚡ Fun Fact  
-> I turn ☕ coffee into clean, testable code and creative digital solutions.  
+### ⚡ Developer’s Vision  
+> I believe great software isn’t just written — it’s thoughtfully engineered with intent and creativity.  
+> My mission is to keep learning, keep building, and keep transforming ideas into powerful, intelligent digital experiences.  
+>
+> 💡 “Code with logic, build with purpose, and automate with intelligence.”  
+> — *Abdur Rahim*
 
----
-
-⭐️ From [AbdurRahim91](https://github.com/AbdurRahim91)
