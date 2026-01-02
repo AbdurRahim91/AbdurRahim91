@@ -1,18 +1,26 @@
-# Hi there 👋, I'm Abdur Rahim
-
-🚀 **PHP Laravel & API Developer | WordPress Plugin & API Integration | MySQL | SEO | App Development**
-
----
-
 ### 👨‍💻 About Me  
-- 💡 Passionate **Backend Developer** specializing in **Laravel, PHP**, and **RESTful API Development**.  
-- 🧩 Skilled in **WordPress Plugin Development** and **Custom API Integrations**.  
-- ⚙️ Experienced with **MySQL**, **JavaScript**, and **performance optimization**.  
-- 🌱 Currently learning **advanced Laravel architecture** and **microservices**.  
-- 💬 Ask me about **PHP, Laravel, WordPress APIs, or SEO integration**.  
-- 📱 Building **apps & API-driven web systems** to make development faster and smarter.  
+
+Hi there! I'm **Abdur Rahim**, a passionate **Full Stack Developer** and **AI Agent Engineer** who loves transforming ideas into scalable, high-performance digital solutions.  
+
+💡 I specialize in **backend engineering with PHP (Laravel)** and **WordPress plugin/API development**, building secure and efficient RESTful systems.  
+⚙️ On the frontend, I craft clean, responsive UIs using **JavaScript, Vue.js, React.js**, and **modern CSS frameworks** like **Tailwind** and **Bootstrap**.  
+📱 I also develop **Android and iOS applications**, integrating APIs seamlessly across platforms.  
+🧠 Exploring the future of **AI Agent Development** with **Python** and **OpenAI tools** to automate workflows and enhance user experience.  
+🌐 Experienced in **VPS server management**, **API integrations**, and **SEO optimization** to ensure top-tier performance for clients worldwide.  
+🧰 My workflow revolves around **VS Code**, **Git**, and **GitHub** for version control and collaborative development.  
 
 ---
+
+### 🚀 What I Do  
+- 🔧 Develop and maintain **Laravel & WordPress-based web applications**  
+- 🧠 Build **AI-driven tools and API-based automations**  
+- 🖥️ Manage **VPS servers**, optimize backend performance & deploy applications  
+- 📱 Create **mobile apps** with rich user interfaces and API connectivity  
+- 🎨 Design **responsive, SEO-optimized frontends** for better digital experiences  
+
+---
+
+> “Code with logic, build with purpose, and automate with intelligence.”  
 
 ### 🧰 Tech Stack  
 
