@@ -21,6 +21,10 @@
 <table>
 <tr>
 <td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  <br>Python
+</td>
+<td align="center" width="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
   <br>PHP
 </td>
@@ -37,19 +41,21 @@
   <br>WooCommerce
 </td>
 <td align="center" width="100">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="48" height="48" alt="Shopify" />
-  <br>Shopify
-</td>
-<td align="center" width="100">
-  <img src="https://cdn-icons-png.flaticon.com/512/3659/3659693.png" width="48" height="48" alt="WP Plugin" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="48" height="48" alt="WP Plugin" />
   <br>WP Plugin
 </td>
 </tr>
-
-<tr>
+<td align="center" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="AI Agent Development" />
+  <br>AI Agent Development
+</td>
 <td align="center" width="100">
   <img src="https://cdn-icons-png.flaticon.com/512/726/726476.png" width="48" height="48" alt="Bug Fix" />
   <br>Bug Fix
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+  <br>Java
 </td>
 <td align="center" width="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -109,14 +115,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
   <br>VS Code
 </td>
-<td align="center" width="100">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-  <br>Python
-</td>
-<td align="center" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="AI Agent Development" />
-  <br>AI Agent Development
-</td>
+
 </tr>
 
 </table>
