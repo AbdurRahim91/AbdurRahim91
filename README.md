@@ -19,8 +19,11 @@ Hi there! I'm **Abdur Rahim**, a passionate **Full Stack Developer** and **AI Ag
 - 🎨 Design **responsive, SEO-optimized frontends** for better digital experiences  
 
 ---
-
-> “Code with logic, build with purpose, and automate with intelligence.”  
+<p align="center">
+  <b>💡 “Code with logic, build with purpose, and automate with intelligence.”</b><br>
+  <i>— Abdur Rahim</i>
+</p>
+---
 
 ### 🧰 Tech Stack  
 
