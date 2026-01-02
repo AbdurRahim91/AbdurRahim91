@@ -117,10 +117,25 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
     <br>VS Code
   </td>
+  <td align="center" width="100">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968909.png" width="48" height="48" alt="VPS Server" />
+    <br>VPS Server
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+    <br>Git
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+    <br>GitHub
+  </td>
 </tr>
 </table>
-
 </div>
+
 
 
 
