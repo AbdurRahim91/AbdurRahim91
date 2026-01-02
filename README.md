@@ -45,13 +45,13 @@
 ### 🏆 GitHub Achievements  
 
 <p align="center">
-  <!-- ✅ Fixed GitHub Streak URL -->
-  <img src="https://streak-stats.demolab.com?user=AbdurRahim91&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=AbdurRahim91&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdurRahim91&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
 
 
 
